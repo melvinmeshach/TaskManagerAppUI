@@ -1,0 +1,43 @@
+.dashboard{
+    height: 100%;
+    padding: 20px;
+}
+.add-icon{
+    border: 1px solid #777879;
+    padding: 5px;
+    margin: 10px;
+    background: #E2E4E6;
+    border-radius: 100px;
+}
+.card-group{
+    display: inline-block;
+    padding: 10px;
+    background-color: #E2E4E6;
+    margin: 10px;
+    float: left;
+    border: 1px solid #777879;
+    min-width: 200px;
+}
+.card-group input{
+    text-align: center;
+    width: 100%;
+    padding: 5px;
+}
+.card{
+    display: block;
+    width: 200px;
+    margin: 10px 5px;
+    padding: 10px;
+    border: 1px solid #777879;
+    border-radius: 3px;
+}
+.card:hover{
+    cursor: pointer;
+    background-color: #777879;
+}
+.card input{
+    width: 100%;
+    padding: 5px;
+    margin-top: 5px;
+    border: none;
+}
